@@ -1,3 +1,5 @@
+[windows下用C语言开发fastcgi程序之环境搭建](https://www.fcblog.top/windws-develop-fastcgi-use-codeblocks.html)
+
 lighttpd-1.5-mingw
 ==================
 
